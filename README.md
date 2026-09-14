@@ -28,3 +28,8 @@ At this time, Candy Tools adds functionality to the following assets:<br>
 8. Go to "Project" → "Project Settings" → "Plugins" tab.
 9. Enable the Candy Tools plugin.
 10. Restart Godot.
+
+## Tools
+Tools are provided with their respective Candy Arts Assets.
+
+Each Asset has a folder for its own tools (e.g. candy\_loot). That folder must be placed in the assets/Candy\_Tools/tools/ folder.
